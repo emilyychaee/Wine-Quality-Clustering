@@ -1,9 +1,3 @@
-""" Emily Chae
-    ITP-449
-    HW 12
-    Description: separate the different wine qualities of red wine
-"""
-
 import pandas as pd 
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
